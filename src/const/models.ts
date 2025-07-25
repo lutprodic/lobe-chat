@@ -29,6 +29,7 @@ export const responsesAPIModels = new Set([
   'o3-deep-research',
   'o3-deep-research-2025-06-26',
   'o3-pro',
+  'o3-deep-research',
   'o3-pro-2025-06-10',
   'o4-mini-deep-research',
   'o4-mini-deep-research-2025-06-26',
